@@ -1,3 +1,18 @@
+Building for RASPBERRY
+======================
+
+There are some prebuilt compose-binaries for docker-compose on a raspberry.
+If you need something more edgy, here is how you compile compose 
+on your raspberry in 2minutes.
+
+* Clone this repository
+* install python 2.7 (apt-get install python)
+* install python setup tools (apt-get install python-setuptools)
+* initialize compose depending on your use-case
+** latest (python setup.py develop)
+* enjoy!
+
+
 Docker Compose
 ==============
 *(Previously known as Fig)*
